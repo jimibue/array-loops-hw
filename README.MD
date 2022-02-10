@@ -2,6 +2,12 @@
 
 Homework using JavaScript array functions like map, reduce, filter
 
+## instructions
+1. cd into folder where you want this project to live (probably week1)
+2. git clone git@github.com:jimibue/array-loops-hw.git
+3. cd array-loops-hw
+4. do challenges in homework.js
+
 ## Sample Data
 
 Here is the data you'll work with
