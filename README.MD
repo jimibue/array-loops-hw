@@ -80,3 +80,8 @@ const characters = [
 2. Is there at least one character with blue eyes?
 3. Is there at least one character taller than 200?
 4. Is there at least one character that has mass less than 50?
+
+
+## Bonus
+1. Redo the filter and map functions challenges, but do them with reduce/forEach
+2. come up with your own
