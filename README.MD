@@ -3,10 +3,8 @@
 Homework using JavaScript array functions like map, reduce, filter
 
 ## instructions
-1. cd into folder where you want this project to live (probably week1)
-2. git clone git@github.com:jimibue/array-loops-hw.git
-3. cd array-loops-hw
-4. do challenges in homework.js
+1. In your homework project add a new hw4.js file in the src dir
+2. copy the content of homework.js  (characters) 
 
 ## Sample Data
 
@@ -52,7 +50,7 @@ const characters = [
 3. Get an array of objects with just name and height properties
 4. Get an array of all first names
 
-## REDUCE
+## REDUCE OR FOREACH
 
 1. Get the total mass of all characters
 2. Get the total height of all characters
