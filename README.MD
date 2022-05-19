@@ -91,3 +91,4 @@ const characters = [
 ## Bonus
 1. Redo the filter and map functions challenges, but do them with reduce/forEach
 2. come up with your own
+3. add tests
