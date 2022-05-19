@@ -90,5 +90,5 @@ const characters = [
 
 ## Bonus
 1. Redo the filter and map functions challenges, but do them with reduce/forEach
-2. come up with your own
+2. come up with your own and use different methods you have not used
 3. add tests
